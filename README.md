@@ -7,7 +7,7 @@ simple audio player for react native with all required controls
 
 ```bash
 $ npm config set registry https://registry.npmjs.org/
-$ npm i git+https://github.com/imadghanimi/react-native-audio-player.git#1.0 --save
+$ npm i git+https://git@github.com/imadghanimi/react-native-audio-player.git --save
 ```
 
 You'll also need react-native-video (to use controls and audio playback) and slider (for audio seekbar) package, you can install these like,
