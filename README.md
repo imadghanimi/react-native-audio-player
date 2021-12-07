@@ -6,6 +6,7 @@ simple audio player for react native with all required controls
 ### Installation
 
 ```bash
+$ npm config set registry https://registry.npmjs.org/
 $ npm i git+https://github.com/imadghanimi/react-native-audio-player.git#1.0 --save
 ```
 
